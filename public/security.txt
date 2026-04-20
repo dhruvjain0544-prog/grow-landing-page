@@ -1,0 +1,5 @@
+Contact: mailto:security@growsphere.ai
+Expires: 2027-01-01T00:00:00.000Z
+Acknowledgements: https://growsphere.ai/security/hall-of-fame
+Preferred-Languages: en
+Canonical: https://growsphere.ai/.well-known/security.txt
